@@ -1,5 +1,5 @@
 {
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/LocalBusiness",
   "@type": "Photographer",
   "name": "Nina Carducci",
   "url": "https://martins-anthony.github.io/ninacarducci.github.io/",
