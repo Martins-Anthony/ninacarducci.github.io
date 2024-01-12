@@ -8,13 +8,14 @@
     "@type": "PostalAddress",
     "streetAddress": "68 avenue Alsace-Lorraine",
     "addressLocality": "Bordeaux",
+    "addressRegion": "Nouvelle-Aquitaine",
     "postalCode": "33200",
-    "addressCountry": "France"
+    "addressCountry": "FR"
   },
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Service client",
-    "telephone": "0556677889"
+    "telephone": "+33556677889"
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
@@ -28,6 +29,8 @@
     "opens": "10:00",
     "close": "19:00"
   },
+  "priceRange": "€€",
+  "image": "https://martins-anthony.github.io/ninacarducci.github.io/assets/images/nina_profile.avif",
   "sameAs": [
     "https://www.instagram.com/ninacarducci.photo/?hl=fr"
   ],
