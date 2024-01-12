@@ -22,6 +22,11 @@ body {
 	font-size: 26px;
 }
 
+.name a {
+	text-decoration: inherit;
+	color: inherit;
+}
+
 .nav ul {
 	display: flex;
 	list-style-type: none;
