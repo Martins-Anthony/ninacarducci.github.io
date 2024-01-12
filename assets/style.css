@@ -85,9 +85,10 @@ body {
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+.about-me__text {
 	width: 80%;
 	font-size: 14px;
+	margin-top: 8px;
 }
 
 #gallery {
@@ -98,13 +99,15 @@ body {
 	padding-block: 2em;
 }
 .gallery .nav {
-	justify-content: center;
+	 justify-content: center;
 }
+/*
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
+*/
 .nav-pills .nav-link {
 	color: #000
 }
@@ -147,7 +150,7 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-
+	font-size: 40px;
 }
 .quote__author {
 	font-family: Spectral;
@@ -201,6 +204,21 @@ body {
 #contact .container {
 	display: flex;
 }
+
+.contact-details {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+.contact-details p,
+.contact-details address {
+	margin: 0;
+}
+
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
@@ -255,7 +273,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	#about-me p {
 		width: 100%;
 	}
 }
@@ -277,6 +295,11 @@ input[type="submit"] {
 		left: 0;
 		z-index: -1;
 	}
+
+	.quote__text {
+		font-size: calc(1.375rem + 1.5vw);
+	}
+
 	.about-me__title{
 		text-align: center;
 		margin-top: 1em;
