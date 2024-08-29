@@ -34,11 +34,11 @@ Création d'un rapport comparatif montrant les résultats avant et après optimi
 
 ## Outils utilisés
 
-- **Lighthouse** : Pour les audits de performance, SEO, et accessibilité.
-- **W3C Validation service** : pout valider le HTML et CSS selon les standards du web, assurant ainsi la conformité du code.
-- **WAVE (Web Accessibility Evaluation Tool)** : Pour évaluer et améliorer l'accessibilité du site.
-- **Schema.org** : Pour configurer les microdonnées et améliorer le référencement local.
-- **Balises Meta (Open Graph & Twitter Cards)** : Pour optimiser le partage sur les résaux sociaux.
+- **[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview?hl=fr)** : Pour les audits de performance, SEO, et accessibilité.
+- **[W3C Validation service](https://www.w3.org/)** : pout valider le HTML et CSS selon les standards du web, assurant ainsi la conformité du code.
+- **[WAVE (Web Accessibility Evaluation Tool)](https://wave.webaim.org/)** : Pour évaluer et améliorer l'accessibilité du site.
+- **[Schema.org](Schema.org)** : Pour configurer les microdonnées et améliorer le référencement local.
+- **[Balises Meta (Open Graph & Twitter Cards)](https://maxime-garnier.fr/blog/referencement/9-open-graph-et-twitter-cards-quest-ce-que-cest-et-comment-les-utiliser)** : Pour optimiser le partage sur les résaux sociaux.
 
 ## Résultats attendus
 
